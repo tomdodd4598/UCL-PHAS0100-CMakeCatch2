@@ -1,17 +1,13 @@
 CMakeCatch2
 ------------------
 
-[![Build Status](https://travis-ci.com/MattClarkson/CMakeCatch2.svg?branch=master)](https://travis-ci.com/MattClarkson/CMakeCatch2) (MattClarkson)
-
-[![Build Status](https://ci.appveyor.com/api/projects/status/tohdybamjqddxnus/branch/main)](https://ci.appveyor.com/project/tomdodd4598/ucl-phas0100-cmakecatch2) (tomdodd4598)
-
+[![Build Status](https://ci.appveyor.com/api/projects/status/tohdybamjqddxnus/branch/main)](https://ci.appveyor.com/project/tomdodd4598/ucl-phas0100-cmakecatch2)
 
 Purpose
 -------
 
 This is a demo project to demonstrate a reasonable folder structure for [CMake](https://cmake.org/) based projects,
 that use [CTest](https://cmake.org/) to run unit tests via [Catch](https://github.com/catchorg/Catch2).
-
 
 Credits
 -------
