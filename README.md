@@ -1,8 +1,9 @@
 CMakeCatch2
 ------------------
 
-[![Build Status](https://travis-ci.com/MattClarkson/CMakeCatch2.svg?branch=master)](https://travis-ci.com/MattClarkson/CMakeCatch2)
-[![Build Status](https://ci.appveyor.com/api/projects/status/5pm89ej732c1ekf0/branch/master)](https://ci.appveyor.com/project/MattClarkson/cmakecatch2)
+[![Build Status](https://travis-ci.com/MattClarkson/CMakeCatch2.svg?branch=master)](https://travis-ci.com/MattClarkson/CMakeCatch2) (MattClarkson)
+
+[![Build Status](https://ci.appveyor.com/api/projects/status/tohdybamjqddxnus/branch/main)](https://ci.appveyor.com/project/tomdodd4598/ucl-phas0100-cmakecatch2) (tomdodd4598)
 
 
 Purpose
