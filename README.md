@@ -1,7 +1,7 @@
 CMakeCatch2
 ------------------
 
-[![Build Status](https://ci.appveyor.com/api/projects/status/tohdybamjqddxnus/branch/main)](https://ci.appveyor.com/project/tomdodd4598/ucl-phas0100-cmakecatch2)
+[![Build Status](https://ci.appveyor.com/api/projects/status/tohdybamjqddxnus/branch/main?svg=true)](https://ci.appveyor.com/project/tomdodd4598/ucl-phas0100-cmakecatch2)
 
 Purpose
 -------
